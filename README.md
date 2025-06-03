@@ -79,7 +79,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title=".NET" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="    https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" 
 />
 <img 
     align="left" 

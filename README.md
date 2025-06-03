@@ -87,7 +87,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title="Blazor" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/42/2/blazor-logo-png_seeklogo-427900.png" 
+    src="https://i.imgur.com/3vSibXR.png" 
 />
 <img 
     align="left" 

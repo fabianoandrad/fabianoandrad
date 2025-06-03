@@ -31,7 +31,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" 
 />
 <img 
     align="left" 
@@ -39,7 +39,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" 
 />
 <img 
     align="left" 
@@ -47,7 +47,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" 
 />
 <img 
     align="left" 
@@ -55,7 +55,39 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" 
+/>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" 
+/>
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" 
+/>
+<img 
+    align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="    https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" 
+/>
+<img 
+    align="left" 
+    alt="Blazor"
+    title="Blazor" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.seeklogo.com/logo-png/42/2/blazor-logo-png_seeklogo-427900.png" 
 />
 <img 
     align="left" 
@@ -63,7 +95,15 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind"
+    title="Tailwind" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" 
 />
 
 <br/>

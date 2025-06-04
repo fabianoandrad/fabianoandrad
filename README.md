@@ -57,7 +57,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 </p>
 
-<br clear="both">
+<!-- <br clear="both">
 <div align="center">
     <img src="https://raw.githubusercontent.com/MiroslavKolosnjaji/MiroslavKolosnjaji/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->

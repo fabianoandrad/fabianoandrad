@@ -1,3 +1,4 @@
+<img src="./Images/computer-illustration.png" min-width="400px" max-width="420px" width="400px" align="right" >
 # Fabiano Andrade
 
 **`Desenvolvedor FullStack`**
@@ -25,86 +26,13 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" 
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" 
-/>
-<img 
-    align="left" 
-    alt=".NET"
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" 
-/>
-<img 
-    align="left" 
-    alt="Blazor"
-    title="Blazor" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://i.imgur.com/3vSibXR.png" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind"
-    title="Tailwind" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" 
-/>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,angular,net,react,tailwind" />
+    <img width="50px" src="https://i.imgur.com/3vSibXR.png" 
+    />
+</p>
+
+
 
 <br/>
 <br/>

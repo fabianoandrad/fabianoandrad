@@ -40,11 +40,11 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
   <p align="center">
     <a href="https://github.com/tim0-12432">
-      <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fabianoAndrad&show_icons=true&include_all_commits=true&text_bold=false&ring_color=f5dd42&count_private=true&title_color=cdd9e5&rank_icon=github&text_color=cdd9e5&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true"/>
+      <img height="140" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fabianoAndrad&show_icons=true&include_all_commits=true&text_bold=false&ring_color=f5dd42&count_private=true&title_color=cdd9e5&rank_icon=github&text_color=cdd9e5&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/tim0-12432?tab=repositories">
-      <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoAndrad&layout=compact&langs_count=8&title_color=cdd9e5&text_color=cdd9e5&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true"/>
+      <img height="140" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoAndrad&layout=compact&langs_count=8&title_color=cdd9e5&text_color=cdd9e5&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true"/>
     </a>
   </p>
 </p>

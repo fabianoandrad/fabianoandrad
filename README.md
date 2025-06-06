@@ -28,7 +28,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,angular,net,react,tailwind" />
-    <img width="50px" src="https://i.imgur.com/3vSibXR.png" 
+    <img width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/blazor.png" 
     />
 </p>
 

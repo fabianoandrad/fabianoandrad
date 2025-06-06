@@ -3,8 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho no front-end e no back-end, criando soluções eficientes e intuitivas. Gosto de desafios, aprendizado contínuo e colaboração. Estou sempre aberto a  
-novas mudanças e entendo isso como uma forma para crescer e contribuir.
+Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho no front-end e no back-end, criando soluções eficientes e intuitivas. Gosto de desafios, aprendizado contínuo e colaboração. Estou sempre aberto a novas mudanças e entendo isso como uma forma para crescer e contribuir.
 
 <!-- <p align="left">
     <a href="https://www.linkedin.com/in/fabiano-andrade-13118475/">

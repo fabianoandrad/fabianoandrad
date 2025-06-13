@@ -28,7 +28,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,angular,net,react,tailwind" />
-    <img width="50px" src="https://raw.githubusercontent.com/fabianoandrad/fabianoandrad/3f00ad4cef56d8dc38f5cf53353dbb2e4d327eb5/Images/blazor.svg" 
+    <img width="48px" style="margin-left: 5px" src="https://raw.githubusercontent.com/fabianoandrad/fabianoandrad/3f00ad4cef56d8dc38f5cf53353dbb2e4d327eb5/Images/blazor.svg" 
     />
 </p>
 

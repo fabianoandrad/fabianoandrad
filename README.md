@@ -37,7 +37,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 <div align="center">
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td style="border: none;">

@@ -36,13 +36,4 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiano-andrade-13118475/)
 
 
-[### 📊 Estatísticas
-
-<p align="center">
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=8)
-</p>
-
-<!-- <br clear="both">
-<div align="center">
-    <img src="https://raw.githubusercontent.com/MiroslavKolosnjaji/MiroslavKolosnjaji/output/snake.svg" alt="Snake animation" />
-</div> -->
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=8)

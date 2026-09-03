@@ -35,11 +35,13 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 ### 🔗 Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiano-andrade-13118475/)
 
+### Gráficos
 <p align="left">
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=6&theme=calm"
     alt="Top Langs"
     max-height="300"
+    margin-right="10"
   />
   <img 
     src="https://github-stats-extended.vercel.app/api/?username=fabianoandrad&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fabiano+Andrade&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
@@ -48,20 +50,6 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=6&theme=calm"
-    alt="Top Langs"
-    height="300"
-    style="vertical-align: middle;"
-  />
-  <img 
-    src="https://github-stats-extended.vercel.app/api/?username=fabianoandrad&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fabiano+Andrade&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
-    alt="Fabiano GitHub Stats"
-    height="300"
-    style="vertical-align: middle;"
-  />
-</p>
 
 
 

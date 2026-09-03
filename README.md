@@ -35,7 +35,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 ### 🔗 Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiano-andrade-13118475/)
 
-<div align="center" style="display: inline-block; margin: 10px;">
+<div style="display: inline-block; margin: 10px;">
 
   <div>
     <img 

@@ -22,7 +22,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     </a>
 </p> -->
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=4)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=6)
 
 ---
 

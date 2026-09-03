@@ -37,7 +37,9 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 <div align="center">
 
-<table>
+<div align="center">
+
+<table border="0">
   <tr>
     <td>
       <img 
@@ -55,6 +57,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 </table>
 
 </div>
+
 
 
 

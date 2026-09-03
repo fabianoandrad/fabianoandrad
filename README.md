@@ -22,8 +22,6 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
     </a>
 </p> -->
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=8)
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -38,12 +36,11 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiano-andrade-13118475/)
 
 
-<!--[### 📊 Estatísticas
+[### 📊 Estatísticas
 
-[<p align="center">
-  <img height="178" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fabianoandrad&show_icons=true&include_all_commits=true&text_bold=false&ring_color=f5dd42&count_private=true&title_color=cdd9e5&rank_icon=github&text_color=cdd9e5&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true"/>
-  <img height="178" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoandrad&layout=compact&langs_count=8&title_color=cdd9e5&text_color=cdd9e5&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true"/>
-</p>](url)](url)-->
+<p align="center">
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=8)
+</p>
 
 <!-- <br clear="both">
 <div align="center">

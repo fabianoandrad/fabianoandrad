@@ -47,8 +47,6 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 </p>
 
 
-</div>
-
 
 
 

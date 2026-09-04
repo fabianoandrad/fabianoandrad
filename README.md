@@ -40,7 +40,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=6&theme=calm"
     alt="Top Langs"
-    max-height="300"
+    max-height="300" !important
     margin-right="10"
   />
   <img 

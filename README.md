@@ -1,5 +1,5 @@
 <img src="./Images/computer-illustration.png" min-width="400px" max-width="420px" width="400px" align="right" >
-# Fabiano Andrade
+🤖 Fabiano Andrade
 
 **`Desenvolvedor FullStack`**
 
@@ -24,7 +24,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📟 Linguagens e Tecnologias
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,angular,net,react,tailwind" />
@@ -35,7 +35,7 @@ Sou desenvolvedor full stack, apaixonado por tecnologia e inovação. Trabalho n
 ### 🔗 Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiano-andrade-13118475/)
 
-### Gráficos
+### 💹 Gráficos
 <p align="left">
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabianoandrad&langs_count=6&theme=calm"
